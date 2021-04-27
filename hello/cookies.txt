@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.liquid-themes.com	TRUE	/	FALSE	1999999999	__cfduid	dcde66e81281f35b6e7b2e0da2b7367b81618248354
+avehtml.liquid-themes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
